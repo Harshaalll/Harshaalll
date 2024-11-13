@@ -1,5 +1,5 @@
 - HELLO WORLD, I’m @Harshaalll
-- 👀 I’m interested in learning new technologies and handson experience
+- 👀 I’m interested in learning new technologies and hands-on experience
 - 🌱 I’m currently learning cloud technologies ,AIML and Webdev.
 
 
