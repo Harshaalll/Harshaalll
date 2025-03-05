@@ -18,13 +18,14 @@
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/springboot-%2300f.svg?style=for-the-badge&logo=spring&logoColor=green" alt="SpringBoot"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt="Server"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-%235C2D91.svg?style=for-the-badge&logo=.aws&logoColor=white" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/Server-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt="Server"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-%235C2D91.svg?style=for-the-badge&logo=Amazon&logoColor=white&color=grey" alt="Cloud Computing"/>
   <br>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/node.js-%23239120.svg?style=for-the-badge&logo=node&logoColor=white" alt="Node.JS"/>
+  <img src="https://img.shields.io/badge/Angular-%b52e31.svg?style=for-the-badge&logo=angular&logoColor=black&color=red" alt="Angular.JS"/>
   <br>
   <img src="https://img.shields.io/badge/postgres-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
