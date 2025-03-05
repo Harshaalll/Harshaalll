@@ -24,10 +24,10 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/node.js-%23239120.svg?style=for-the-badge&logo=node&logoColor=white" alt="Node.JS"/>
+  <img src="https://img.shields.io/badge/node.js-%23239120.svg?style=for-the-badge&logo=node.js&logoColor=white&color=orange" alt="Node.JS"/>
   <img src="https://img.shields.io/badge/Angular-%b52e31.svg?style=for-the-badge&logo=angular&logoColor=black&color=red" alt="Angular.JS"/>
   <br>
-  <img src="https://img.shields.io/badge/postgres-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/postgres-%2300f.svg?style=for-the-badge&logo=PostgreSQL&logoColor=blue&color=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <br>
   <img src="https://user-images.githubusercontent.com/94921807/232994182-8046875d-ff39-46c0-a5a5-93f6503afd94.png" alt="Git" height="28px" width="80px"/>
